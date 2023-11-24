@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "alonso padre de todos",
+    "home_page_url": "https://anxobo.github.io/ProyectoRSS/",
+    "feed_url": "https://anxobo.github.io/ProyectoRSS/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "Alonso padre de toda la f1",
+    "url": "https://anxobo.github.io/ProyectoRSS/mipadre.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Estamos contigo Alonso!</p>",
+    "url": "https://anxobo.github.io/ProyectoRSS/alonso.html"
+    }
+    ]
+   }
+   
